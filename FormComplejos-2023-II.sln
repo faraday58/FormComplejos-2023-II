@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormComplejos-2023-II", "FormComplejos-2023-II.csproj", "{EBCFD65F-7C56-46A2-93A6-CDE1A1D700B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCFD65F-7C56-46A2-93A6-CDE1A1D700B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCFD65F-7C56-46A2-93A6-CDE1A1D700B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCFD65F-7C56-46A2-93A6-CDE1A1D700B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCFD65F-7C56-46A2-93A6-CDE1A1D700B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A42D95A-B077-4444-8BC4-0028AFE044A6}
+	EndGlobalSection
+EndGlobal
